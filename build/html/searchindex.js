@@ -1,1 +1,0 @@
-Search.setIndex({docnames:["index","kebab"],envversion:53,filenames:["index.rst","kebab.rst"],objects:{},objnames:{},objtypes:{},terms:{"modu\u0142\u00f3w":0,content:0,indek:0,keb:1,mustafa:0,mustafi:1,wyszukiwani:0},titles:["Welcome to SphixTest\u2019s documentation!","Mustafa"],titleterms:{document:0,indic:0,mustafa:1,sphixtest:0,tabl:0,welcom:0}})
