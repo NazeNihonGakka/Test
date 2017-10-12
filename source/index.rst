@@ -10,6 +10,7 @@ Welcome to SphixTest's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   kebab
 
 
 Indices and tables
