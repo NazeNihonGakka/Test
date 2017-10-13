@@ -8,7 +8,7 @@ Welcome to SphixTest's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Spis treści:
+   :caption: Uwaga, zawiera zawartość:
 
    kebab
 
