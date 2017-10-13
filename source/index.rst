@@ -8,13 +8,13 @@ Welcome to SphixTest's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Spis treści:
 
    kebab
 
 
-Indices and tables
-==================
+Indeksy i wyszukiwanie
+======================
 
 * :ref:`genindex`
 * :ref:`search`
